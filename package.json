@@ -1,0 +1,10 @@
+{
+  "name": "saguarota",
+  "version": "0.1.0",
+  "description": "SaguarOTA is an OTA update library for MicroPython projects with host-side manifest generation and local serving tools.",
+  "urls": [
+    ["saguarota/__init__.py", "saguarota/__init__.py"],
+    ["saguarota/saguarota.py", "saguarota/saguarota.py"],
+    ["saguarota/py3utils.py", "saguarota/py3utils.py"]
+  ]
+}
